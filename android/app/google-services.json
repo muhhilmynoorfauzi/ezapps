@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656432546114",
+    "project_id": "ezapp-store",
+    "storage_bucket": "ezapp-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656432546114:android:2780479bd7e8fdf100c8db",
+        "android_client_info": {
+          "package_name": "com.ezprog.ezapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4X9paBasdpQ60sNUxh2pNhY6TWW5MNvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
